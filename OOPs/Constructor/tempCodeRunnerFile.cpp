@@ -1,0 +1,3 @@
+Teacher(){
+//     cout<<"Constructor"<<endl;
+// }

@@ -1,0 +1,91 @@
+Here is an exhaustive list of loop questions:
+
+For Loop
+
+
+
+While Loop
+
+1. Print numbers from 1 to 10
+2. Print even numbers from 1 to 100
+3. Print odd numbers from 1 to 100
+4. Print numbers from n to 1
+5. Calculate sum of numbers from 1 to n
+6. Calculate factorial of a number
+7. Print Fibonacci sequence up to n
+8. Print prime numbers from 1 to 100
+9. Print numbers in reverse order
+10. Print numbers in ascending order
+11. Print numbers in descending order
+12. Print numbers in zig-zag pattern
+13. Print numbers in diagonal pattern
+14. Calculate sum of squares of numbers from 1 to n
+15. Calculate sum of cubes of numbers from 1 to n
+16. Print numbers with their squares and cubes
+17. Print numbers with their factors
+18. Print numbers with their prime factors
+19. Print numbers with their divisors
+20. Print numbers with their multiples
+
+Do-While Loop
+
+1. Print numbers from 1 to 10
+2. Print even numbers from 1 to 100
+3. Print odd numbers from 1 to 100
+4. Print numbers from n to 1
+5. Calculate sum of numbers from 1 to n
+6. Calculate factorial of a number
+7. Print Fibonacci sequence up to n
+8. Print prime numbers from 1 to 100
+9. Print numbers in reverse order
+10. Print numbers in ascending order
+11. Print numbers in descending order
+12. Print numbers in zig-zag pattern
+13. Print numbers in diagonal pattern
+14. Calculate sum of squares of numbers from 1 to n
+15. Calculate sum of cubes of numbers from 1 to n
+16. Print numbers with their squares and cubes
+17. Print numbers with their factors
+18. Print numbers with their prime factors
+19. Print numbers with their divisors
+20. Print numbers with their multiples
+
+Nested Loops
+
+3. Print Fibonacci sequence up to n using nested loops
+4. Print prime numbers from 1 to 100 using nested loops
+5. Print numbers in reverse order using nested loops
+6. Print numbers in ascending order using nested loops
+7. Print numbers in descending order using nested loops
+8. Print numbers in zig-zag pattern using nested loops
+9. Print numbers in diagonal pattern using nested loops
+10. Calculate sum of squares of numbers from 1 to n using nested loops
+11. Calculate sum of cubes of numbers from 1 to n using nested loops
+12. Print numbers with their squares and cubes using nested loops
+13. Print numbers with their factors using nested loops
+14. Print numbers with their prime factors using nested loops
+15. Print numbers with their divisors using nested loops
+16. Print numbers with their multiples using nested loops
+17. Print array elements using nested loops
+18. Print string characters using nested loops
+19. Print numbers in a pyramid pattern using nested loops
+20. Print numbers in a diamond pattern using nested loops
+
+Loop Control Statements
+
+1. Use break statement to exit a loop
+2. Use continue statement to skip an iteration
+3. Use goto statement to jump to a label
+4. Use return statement to exit a function
+5. Use exit() function to exit a program
+6. Use break statement with a label
+7. Use continue statement with a label
+8. Use goto statement with a label
+9. Use return statement with a label
+10. Use exit() function with a label
+
+Array and Loop
+
+1. Print elements of an array using a loop
+2. Calculate sum of elements in an array using a loop
+3. Find maximum element in an array using a loop
