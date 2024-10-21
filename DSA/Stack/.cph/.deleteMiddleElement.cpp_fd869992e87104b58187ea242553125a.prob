@@ -1,0 +1,1 @@
+{"name":"Local: deleteMiddleElement","url":"c:\\C++\\DSA\\Stack\\deleteMiddleElement.cpp","tests":[{"id":1729144087940,"input":"1 2 3 4 5","output":"1 2 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\DSA\\Stack\\deleteMiddleElement.cpp","group":"local","local":true}
