@@ -19,6 +19,7 @@ int main(){
     l.pop_back();
     l.pop_front();
    cout<< l.size()<<endl;
+   cout<<
     // print using for each loop 
     for(int val:l){
         cout<<val<<" ";
